@@ -38,10 +38,6 @@ Rec: ~Drawl Nag
 🌹${_p}listonline [groupid]
 🌹${_p}grouplist
 
-
-
-
-
 *「 Advanced 」*
 > return m 'javascript eval' + m.sender
 
