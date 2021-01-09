@@ -38,10 +38,9 @@ Rec: ~Drawl Nag
 🌹${_p}listonline [groupid]
 🌹${_p}grouplist
 
-*「 EXPERIMENTAL 」*
-🌹*${_p}jadibot*
-[kode login jika ada / kosongin]
-Jangan Lupa Scan QR
+
+
+
 
 *「 Advanced 」*
 > return m 'javascript eval' + m.sender
@@ -53,10 +52,10 @@ Github:
 https://github.com/Arya274/Arya-Bot
 
 YouTube: 
-https://www.youtube.com/c/DrawlNag
+https://www.youtube.com/c/BaXxY
 
 OwNer:
-*Wa.me/6288235435804*
+*Wa.me/6285376980664*
 ==================
 `.trim(), m)
 }
